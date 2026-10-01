@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello world, I'm Christy 
 
-<!--
-**christymhuch/christymhuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software development and database student building toward a career in **data engineering**.
 
-Here are some ideas to get you started:
+I enjoy working with databases, Python, SQL, and data systems, and I'm currently building hands-on projects to develop my skills in data pipelines, cloud platforms, and large-scale data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- SQL / T-SQL
+- Python
+- Database Design
+- SQL Server
+- Git & GitHub
+- HTML / CSS / JavaScript
+- C++
+
+## Currently Learning
+
+- Data Engineering
+- ETL / ELT Pipelines
+- Microsoft Azure
+- Microsoft Fabric
+- Databricks
+- PySpark
+- Data Warehousing
+- Distributed Data Processing
+
+## Featured Project
+
+### [SEC Financial Data Platform](https://github.com/christymhuch/sec-financial-data-platform)
+
+An evolving data engineering project using public SEC financial filing data to practice ingestion, validation, transformation, storage, and data-quality concepts.
+
+**Technologies:** Python • SQL • Git/GitHub
+
+## Career Interests
+
+I'm especially interested in:
+
+- Data Engineering
+- Data Platform Engineering
+- Cloud Data Engineering
+- Large-scale data processing
+- Financial and quantitative data systems
+
+## Current Goal
+
+I'm focused on developing strong foundations in **SQL, Python, cloud data platforms, and data engineering architecture** while building projects that demonstrate those skills.
